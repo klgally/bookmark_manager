@@ -1,4 +1,4 @@
-from input_validation import input_int, yes_or_no
+from ui.input_validation import yes_or_no
 
 
 
